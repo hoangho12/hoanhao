@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jcommon-1.0.23">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/AdminPanel with graphs-20220210T035544Z-001/AdminPanel with graphs/JFreeChart/jcommon-1.0.23.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/AdminPanel with graphs-20220210T035544Z-001/AdminPanel with graphs/JFreeChart/jfreechart-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
